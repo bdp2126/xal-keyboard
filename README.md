@@ -11,3 +11,5 @@ Installation instructions for Mac users:
 - Add XAL to your keyboards! You can navigate between input sources by using the top taskbar, or by changing what the key with the globe does in the Keyboard menu
 
 I have not tested the Windows version yet. I believe you will need to install [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134) and use it to open xal.klc, at which point it should guide you through the keyboard installation process.
+
+This layout is inspired heavily by [this project by sjorcindy](https://github.com/sjorcindy/xal-keyboards/tree/master).
